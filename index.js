@@ -1,13 +1,15 @@
 // ==UserScript==
 // @name         Offerup Default Bot
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Offerup Default Bot
 // @author       You
 // @match        https://offerup.com/
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=offerup.com
 // @grant        none
 // @run-at document-end
+// @updateURL https://raw.githubusercontent.com/HOPLAtools/offerupdefaultbot/master/index.js
+// @downloadURL https://raw.githubusercontent.com/HOPLAtools/offerupdefaultbot/master/index.js
 // ==/UserScript==
 
 (function() {
