@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Offerup Default Bot
 // @namespace    http://tampermonkey.net/
-// @version      0.4
+// @version      0.5
 // @description  Offerup Default Bot
 // @author       You
 // @match        https://offerup.com/
